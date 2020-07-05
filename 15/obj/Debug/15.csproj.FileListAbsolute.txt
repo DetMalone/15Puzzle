@@ -1,0 +1,16 @@
+C:\Users\Malone\source\repos\15\15\bin\Debug\15.exe.config
+C:\Users\Malone\source\repos\15\15\bin\Debug\15.exe
+C:\Users\Malone\source\repos\15\15\bin\Debug\15.pdb
+C:\Users\Malone\source\repos\15\15\obj\Debug\15.csprojAssemblyReference.cache
+C:\Users\Malone\source\repos\15\15\obj\Debug\MainWindow.baml
+C:\Users\Malone\source\repos\15\15\obj\Debug\MainWindow.g.cs
+C:\Users\Malone\source\repos\15\15\obj\Debug\App.g.cs
+C:\Users\Malone\source\repos\15\15\obj\Debug\15_MarkupCompile.cache
+C:\Users\Malone\source\repos\15\15\obj\Debug\15.g.resources
+C:\Users\Malone\source\repos\15\15\obj\Debug\_15.Properties.Resources.resources
+C:\Users\Malone\source\repos\15\15\obj\Debug\15.csproj.GenerateResource.cache
+C:\Users\Malone\source\repos\15\15\obj\Debug\15.csproj.CoreCompileInputs.cache
+C:\Users\Malone\source\repos\15\15\obj\Debug\15.exe
+C:\Users\Malone\source\repos\15\15\obj\Debug\15.pdb
+C:\Users\Malone\source\repos\15\15\obj\Debug\15_MarkupCompile.lref
+C:\Users\Malone\source\repos\15\15\obj\Debug\GeneratedInternalTypeHelper.g.cs
