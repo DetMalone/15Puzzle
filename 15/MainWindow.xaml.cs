@@ -17,7 +17,7 @@ namespace _15
         {
             InitializeComponent();
 
-            winText.Visibility = Visibility.Hidden;
+            winText.Visibility = Visibility.Hidden; 
 
             dispatcherTimer.Tick += new EventHandler(TimerTick);
             dispatcherTimer.Interval = new TimeSpan(0, 0, 1);
