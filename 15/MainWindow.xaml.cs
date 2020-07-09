@@ -121,7 +121,7 @@ namespace _15
             int parity = 0;
             for (int i = 0; i < checkArray.Length; i++)
             {
-                if (checkArray[i] == 0) parity += (i - 1) / 4 + 1;
+                if (checkArray[i] == 0) parity += i / 4 + 1;
                 else for (int j = i + 1; j < checkArray.Length; j++)
                         if (checkArray[i] > checkArray[j] && checkArray[j] != 0) parity++;
             }
